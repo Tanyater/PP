@@ -3,7 +3,7 @@
 
 According to my variant the project uses
 - Python 3.8.0
-- venv as a virtual environment manager + re
+- venv as a virtual environment manager + requirment.txt
 
 # Project setup
 
@@ -30,4 +30,10 @@ According to my variant the project uses
    ```
    pip install -r requirements.txt
    ```
-    pip freeze > requirement.txt
+   pip freeze > requirement.txt
+5. Instructions to deploy project
+   ```
+- run file "app.py"
+- open new tab in browser
+- paste localhost address
+   
